@@ -19,11 +19,6 @@
 
 ### Infraestructura como servicio
 ***
-
-<table collapse="none">
-<tr>
-<td border="none">
-
 La infraestructura como servicio permite acceder a las características de conexión en red, a los equipos (virtuales o en software dedicado) y al espacio de almacenamiento de datos. Las empresas actuales hacen frente a importantes desafíos, desde habilitar una infraestructura de trabajo remoto y responder a los cada vez más numerosos ataques cibernéticos hasta administrar un menor flujo de efectivo.
 
 Los proveedores de IaaS pueden administrar:
@@ -33,14 +28,9 @@ Los proveedores de IaaS pueden administrar:
 * Administración de identidades
 * Conexiones de red
 
-</td>
-<td>
 <div align="center">
-    <img src="./assets/iaas.png"/>
+    <img src="./assets/iaas.png" width="250" style="margin-top: -10rem"/>
 </div>
-</td>
-</tr>
-</table>
 
 ### Plataforma como servicio
 ***
