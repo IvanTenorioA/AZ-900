@@ -1,33 +1,36 @@
 
 ## Tabla de contenidos
 
-  1. [Infraestructura como servicio](#infraestructura-como-servicio)
-  2. [Plataforma como servicio](#plataforma-como-servicio)
-  3. [Software como servicio](#software-como-servicio)
-  4. [Escalabilidad](#escalabilidad)
-  5. [Elasticidad](#elasticidad)
-  6. [Escalamiento horizontal](#escalamiento-horizontal)
-  7. [Escalamiento vertical](#escalamiento-vertical)
-  8. [Zona de disponibilidad](#zona-de-disponibilidad)
-  9. [Región](#región)
+1. [Zona de disponibilidad](#zona-de-disponibilidad)
+2. [Región](#región)
+3. [Infraestructura como servicio](#infraestructura-como-servicio)
+4. [Plataforma como servicio](#plataforma-como-servicio)
+5. [Software como servicio](#software-como-servicio)
+6. [Escalabilidad](#escalabilidad)
+7. [Elasticidad](#elasticidad)
+8. [Escalamiento horizontal](#escalamiento-horizontal)
+9. [Escalamiento vertical](#escalamiento-vertical)
+10. [Balanceador de carga](#balanceador-de-carga)
+
+### Zona de disponibilidad
+***
+### Región
+***
 
 ### Infraestructura como servicio
 ***
 
-<div style="display: flex; justify-content: space-between; text-align: justify">
-<div>
-<p>
 La infraestructura como servicio permite acceder a las características de conexión en red, a los equipos (virtuales o en software dedicado) y al espacio de almacenamiento de datos. Las empresas actuales hacen frente a importantes desafíos, desde habilitar una infraestructura de trabajo remoto y responder a los cada vez más numerosos ataques cibernéticos hasta administrar un menor flujo de efectivo.
-</p>
-<p>Los proveedores de IaaS pueden administrar:</p>
-<ul>
-    <li>Firewalls</li>
-    <li>Balanceadores de carga</li>
-    <li>Administración de identidades</li>
-    <li>Conexiones de red</li>
-</ul> 
-</div>
-<img src="./assets/iaas.png" style="width: 25%;"/>
+
+Los proveedores de IaaS pueden administrar:
+
+* Firewalls
+* Balanceadores de carga
+* Administración de identidades
+* Conexiones de red
+
+<div align="center">
+    <img src="./assets/iaas.png" width="300"/>
 </div>
 
 ### Plataforma como servicio
@@ -42,7 +45,5 @@ La infraestructura como servicio permite acceder a las características de conex
 ***
 ### Escalamiento vertical
 ***
-### Zona de disponibilidad
-***
-### Región
+### Balanceador de carga
 ***
