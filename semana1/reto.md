@@ -1,6 +1,15 @@
 
 ## Tabla de contenidos
-1.  [Infraestructura como servicio](#IaaS)
+
+  1. [Infraestructura como servicio](#infraestructura-como-servicio)
+  2. [Plataforma como servicio](#plataforma-como-servicio)
+  3. [Software como servicio](#software-como-servicio)
+  4. [Escalabilidad](#escalabilidad)
+  5. [Elasticidad](#elasticidad)
+  6. [Escalamiento horizontal](#escalamiento-horizontal)
+  7. [Escalamiento vertical](#escalamiento-vertical)
+  8. [Zona de disponibilidad](#zona-de-disponibilidad)
+  9. [Región](#región)
 
 ### Infraestructura como servicio
 ***
@@ -20,3 +29,20 @@ La infraestructura como servicio permite acceder a las características de conex
 </div>
 <img src="./assets/iaas.png" style="width: 25%;"/>
 </div>
+
+### Plataforma como servicio
+***
+### Software como servicio
+***
+### Escalabilidad
+***
+### Elasticidad
+***
+### Escalamiento horizontal
+***
+### Escalamiento vertical
+***
+### Zona de disponibilidad
+***
+### Región
+***
